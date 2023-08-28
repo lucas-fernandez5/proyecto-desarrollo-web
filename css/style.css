@@ -5,6 +5,7 @@
 }
 body{
     text-align: center;
+    font-family: 'Roboto Slab', serif;
 }
 .imagenes{
     display: flex;
